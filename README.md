@@ -151,7 +151,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/yourusername/gcp-bucket-collector/issues) page
+1. Check the [Issues](https://github.com/p314dO/gcp-bucket-collector/issues) page
 2. Create a new issue with detailed information about your problem
 3. Include your environment details (OS, gcloud version, etc.)
 
