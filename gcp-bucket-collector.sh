@@ -16,7 +16,7 @@ fi
 
 PREFIX="$1"
 OUTFILE="$2"
-BUCKET="gs://next-gen-platform/${PREFIX}/**"
+BUCKET="gs://PUT_BUCKET_NAME_HERE/${PREFIX}/**"
 
 echo "Starting collection for prefix: $PREFIX"
 echo "Output file: $OUTFILE"
